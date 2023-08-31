@@ -1,0 +1,14 @@
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\bin\Debug\net7.0\SplashkitAnimSceneProj.exe
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\bin\Debug\net7.0\SplashkitAnimSceneProj.deps.json
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\bin\Debug\net7.0\SplashkitAnimSceneProj.runtimeconfig.json
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\bin\Debug\net7.0\SplashkitAnimSceneProj.dll
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\bin\Debug\net7.0\SplashkitAnimSceneProj.pdb
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\obj\Debug\net7.0\SplashkitAnimSceneProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\obj\Debug\net7.0\SplashkitAnimSceneProj.AssemblyInfoInputs.cache
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\obj\Debug\net7.0\SplashkitAnimSceneProj.AssemblyInfo.cs
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\obj\Debug\net7.0\SplashkitAnimSceneProj.csproj.CoreCompileInputs.cache
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\obj\Debug\net7.0\SplashkitAnimSceneProj.dll
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\obj\Debug\net7.0\refint\SplashkitAnimSceneProj.dll
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\obj\Debug\net7.0\SplashkitAnimSceneProj.pdb
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\obj\Debug\net7.0\SplashkitAnimSceneProj.genruntimeconfig.cache
+C:\Users\Abdul Algorithm\Desktop\SplashkitAnimSceneProj\obj\Debug\net7.0\ref\SplashkitAnimSceneProj.dll
